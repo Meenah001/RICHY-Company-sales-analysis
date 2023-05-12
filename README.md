@@ -31,11 +31,13 @@ vi) In which month was the highest sales made?
 ---
 
 # DATA CLEANING/TRANSFORMATION
+
 Data cleaning was performed in power query before loading it to excel worksheet
 
 ---
 
 # DATA ANALYSIS
+
 The analysis of the data was done in excel using some excel functions e.g COUNTA, SUM, VLOOKUP, XLOOKUP, MAX, MIN etc, Pivot table and charts were also used. 
 
 After using the excel function to do some calculations, the following results were gotten;
@@ -69,13 +71,12 @@ After using the excel function to do some calculations, the following results we
 
 The above image shows the countries and the revenue generated, from the highest to the lowest. United States had the highest sales of the product with about $25,029,830 sales, follow by Canada with $24,887,654 sales, France had $24,354,172 sales, Germany with about $23,505,340 and Mexico which had the lowest sales of $20,949,352
 
----
-
 # SALES BY MONTH
 
 ![total revenue by month](https://github.com/Meenah001/RICHY-Company-sales-analysis/assets/97677904/1c516156-1671-49cc-8843-3b13614f6211)
 
-The highest sales was made in october
+The highest sales was made in october with about $1,671,431
+
 # SALES BY YEAR
 
 ![total revenue by year](https://github.com/Meenah001/RICHY-Company-sales-analysis/assets/97677904/60e76445-5303-41d0-8efa-0b57aa3ede56)
@@ -86,28 +87,55 @@ The highest sales was made in 2014  with total sales of $92,311,094 while in 201
 
 ![total revenue by segment](https://github.com/Meenah001/RICHY-Company-sales-analysis/assets/97677904/cbd733c9-0d3d-4c57-8f56-b79f90a34e7d)
 
+The Government segmnt was recorded to have made the highest sales ($52,504,260) and Channel partners had the lowest sales ($1,800,593)
+
 # PROFIT BY PRODUCT AND SEGMENT
 
 ![profit by product by segment](https://github.com/Meenah001/RICHY-Company-sales-analysis/assets/97677904/ab96d18a-f840-4509-85c4-c3be7406085f)
 
+Government segment had the highest profit with paseo been the product sold most to get the highest profit
+
 # PROFIT BY PRODUCT
 
-Paseo is the most profitable product with sales of $4,797,438 and Carretera was the product with the lowest profit of $1,826,805
-
 ![profit by product](https://github.com/Meenah001/RICHY-Company-sales-analysis/assets/97677904/8f21d390-187f-4d9c-8283-08bd7c48c01e)
+
+Paseo is the most profitable product with sales of $4,797,438 and Carretera was the product with the lowest profit of $1,826,805
 
 # DISCOUNT BY PRPODUCT
 
 ![discount by product](https://github.com/Meenah001/RICHY-Company-sales-analysis/assets/97677904/b9a39a68-f713-4211-a1e6-2d820c9b05c8)
 
+The highest discount was given on paseo product and this could be bcause it made the highest sales of all other products
+
 # UNITS SOLD BY YEAR
 
 ![units sold by year](https://github.com/Meenah001/RICHY-Company-sales-analysis/assets/97677904/6e16b8b5-400c-48e8-8253-1563c2a404bd)
+
+The highest quantity of the product was sold in the year 2014 (861,132 Qty) and the lowest in 2013 (264,674 Qty)
 
 # UNITS SOLD BY PRODUCT
 
 ![units sold by product](https://github.com/Meenah001/RICHY-Company-sales-analysis/assets/97677904/6174a896-9225-44d1-9155-d8a0b556a588)
 
+Paseo had the highest quantity sold (338,239 units sold) and Carretera had th lowest (146,846)
+
+---
+
+# FINDINGS AND RECOMMENDATION
+
+After carrying out a proper analysis on the data, the following conclusion was reached;
+
+- United States is the best location to build the new branch of the company, reason being that it recorded the highest sales of the products 
+
+- Paseo being the most purchased product and also the most profitable product should be produced in large quantities
+
+ - Carretera has the lowest sales and profit, new strategy should be introduced in making this product for it to bring in more sales and profit.
+
+---
+
+# ANALYSIS DASHBOARD
+
+![Excel Assignment 2 4rm chinonso](https://github.com/Meenah001/RICHY-Company-sales-analysis/assets/97677904/4d2a839a-ae64-4abe-b2b9-64a6fbe4e04c)
 
  
 
