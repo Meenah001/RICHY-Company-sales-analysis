@@ -61,7 +61,55 @@ After using the excel function to do some calculations, the following results we
 # Number of product
  6
 
+---
 
+# SALES BY COUNTRY
+
+![total revenue by country](https://github.com/Meenah001/RICHY-Company-sales-analysis/assets/97677904/86e4e4ce-1845-4414-877e-505fd9803fea)
+
+The above image shows the countries and the revenue generated, from the highest to the lowest. United States had the highest sales of the product with about $25,029,830 sales, follow by Canada with $24,887,654 sales, France had $24,354,172 sales, Germany with about $23,505,340 and Mexico which had the lowest sales of $20,949,352
+
+---
+
+# SALES BY MONTH
+
+![total revenue by month](https://github.com/Meenah001/RICHY-Company-sales-analysis/assets/97677904/1c516156-1671-49cc-8843-3b13614f6211)
+
+The highest sales was made in october
+# SALES BY YEAR
+
+![total revenue by year](https://github.com/Meenah001/RICHY-Company-sales-analysis/assets/97677904/60e76445-5303-41d0-8efa-0b57aa3ede56)
+
+The highest sales was made in 2014  with total sales of $92,311,094 while in 2013 the total sales made was $26,415,255 which made it the year that had the lowest sales
+
+# SALES BY SEGMENT
+
+![total revenue by segment](https://github.com/Meenah001/RICHY-Company-sales-analysis/assets/97677904/cbd733c9-0d3d-4c57-8f56-b79f90a34e7d)
+
+# PROFIT BY PRODUCT AND SEGMENT
+
+![profit by product by segment](https://github.com/Meenah001/RICHY-Company-sales-analysis/assets/97677904/ab96d18a-f840-4509-85c4-c3be7406085f)
+
+# PROFIT BY PRODUCT
+
+Paseo is the most profitable product with sales of $4,797,438 and Carretera was the product with the lowest profit of $1,826,805
+
+![profit by product](https://github.com/Meenah001/RICHY-Company-sales-analysis/assets/97677904/8f21d390-187f-4d9c-8283-08bd7c48c01e)
+
+# DISCOUNT BY PRPODUCT
+
+![discount by product](https://github.com/Meenah001/RICHY-Company-sales-analysis/assets/97677904/b9a39a68-f713-4211-a1e6-2d820c9b05c8)
+
+# UNITS SOLD BY YEAR
+
+![units sold by year](https://github.com/Meenah001/RICHY-Company-sales-analysis/assets/97677904/6e16b8b5-400c-48e8-8253-1563c2a404bd)
+
+# UNITS SOLD BY PRODUCT
+
+![units sold by product](https://github.com/Meenah001/RICHY-Company-sales-analysis/assets/97677904/6174a896-9225-44d1-9155-d8a0b556a588)
+
+
+ 
 
 
 
