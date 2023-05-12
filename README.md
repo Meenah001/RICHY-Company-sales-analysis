@@ -35,4 +35,4 @@ Data cleaning was performed in power query before loading it to excel worksheet
 ---
 
 # DATA ANALYSIS
-The analysis of the data was done using simple visuals in Excel
+The analysis of the data was done in excel using some excel functions e.g COUNNTA, SUMIF, XLOOKUP, MAX, MIN etc, Pivot table and charts were also used. 
