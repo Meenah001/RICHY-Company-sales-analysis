@@ -110,7 +110,7 @@ The highest discount was given on paseo product and this could be bcause it made
 
 # UNITS SOLD BY YEAR
 
-![units sold by year](https://github.com/Meenah001/RICHY-Company-sales-analysis/assets/97677904/6e16b8b5-400c-48e8-8253-1563c2a404bd)
+![units sold by year](https://github.com/Meenah001/RICHY-Company-sales-analysis/assets/97677904/a2bfbb4b-4f70-47eb-bd3a-d88fcb16a835)
 
 The highest quantity of the product was sold in the year 2014 (861,132 Qty) and the lowest in 2013 (264,674 Qty)
 
